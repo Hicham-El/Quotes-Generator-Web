@@ -2,12 +2,6 @@
 
 This is a simple web application that displays a random quote and its author. Users can generate a new quote or share the current quote on X (formerly Twitter).
 
-## Features
-- Fetches and displays a random quote and author from an online API
-- "New Quote" button to get a fresh quote
-- "Publish On X" button to share the quote on X in a pre-filled post window
-- Responsive and modern UI using HTML and CSS
-
 ## Technologies Used
 - HTML
 - CSS
